@@ -1,1 +1,1 @@
-# ver-checker-for-cgh-thing
+1
